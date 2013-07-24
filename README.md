@@ -1,4 +1,10 @@
-﻿Tension est un système de jeu de rôle basé sur des règles simples.
+﻿Tension is a pen and papper roleplaying rules sets for any universe.
+Tension is currently developped in french but english translation will be available.
+Tension is under creative commons by attribution license.
+<div xmlns:cc="http://creativecommons.org/ns#" about="http://creativecommons.org"><a rel="cc:attributionURL" property="cc:attributionName" href="http://creativecommons.org">this site</a> / <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></div>
+
+
+Tension est un système de jeu de rôle basé sur des règles simples.
 
 Le principe de tension repose sur plusieurs points:
 -la gestion du rythme de la narration
