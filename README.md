@@ -18,12 +18,12 @@ Tension est sous licence créative commons par attribution
 Principe de tension
 -------------------
 
-*la gestion du rythme de la narration
-*la gestion des actions des joueurs et du maître du jeu (dans le sens de limitation de ces actions)
-*l’aide à la mise en ambiance
+* la gestion du rythme de la narration
+* la gestion des actions des joueurs et du maître du jeu (dans le sens de limitation de ces actions)
+* l’aide à la mise en ambiance
 
 En effet tension est un système basé sur des jauges visuelles.
-Sur chaque jauge on indique cinq niveaux de 'Tension':
+Sur chaque jauge on indique cinq niveaux de *Tension*:
 
 1. Inexistante
 2. Faible
@@ -38,18 +38,18 @@ Le maître du jeu dispose d'une jauge globale de situation et peut utiliser des 
 Règles d'utilisations des jauges
 --------------------------------
 
-Seul le maître du jeu est garant des jauges c'est l'arbitre ultime.
-Chaque joueur peut modifier uniquement sa propre jauge en accord avec le maître du jeu.
-Dans l'idéal, la jauge du maître du jeu doit être égale à la plus haute jauge des joueurs. Ceci implique que quand le maître du jeu monte sa jauge d'un cran, celles des joueurs montent elles aussi d'un cran. Cette règle n'est pas 'obligatoire», car de nombreuses situations ne permettent pas de la respecter. Néanmoins le principe de faire coïncider la jauge principale aux jauges des personnages 'force' les joueurs à respecter la 'tension' de la scène.
+* Seul le maître du jeu est garant des jauges c'est l'arbitre ultime.
+* Chaque joueur peut modifier uniquement sa propre jauge en accord avec le maître du jeu.
+* Dans l'idéal, la jauge du maître du jeu doit être égale à la plus haute jauge des joueurs. Ceci implique que quand le maître du jeu monte sa jauge d'un cran, celles des joueurs montent elles aussi d'un cran. Cette règle n'est pas 'obligatoire», car de nombreuses situations ne permettent pas de la respecter. Néanmoins le principe de faire coïncider la jauge principale aux jauges des personnages 'force' les joueurs à respecter la 'tension' de la scène.
 
 Les jauges des joueurs indiquent la 'tension' du personnage. C'est un indicateur global qui prend en compte la condition physique, psychique, 'magique'...
 Par exemple
 
->Le joueur est en train d'attendre dans une taverne: Tension 1
->Le joueur s'impatiente dans la taverne (l'est long le service!): Tension 2
->Le joueur s'énerve, plusieurs tables ont été servies avant lui... : Tension 3
->Le joueur fulminant découvre en tendant l'oreille qu'il n'est pas vraiment le bienvenu ici, car étant un sale nabot de nain il empeste dans cet établissement de prestige... : Tension 4
->Le joueur déclenche une rixe : Tension 5
+>* Le joueur est en train d'attendre dans une taverne: Tension 1
+>* Le joueur s'impatiente dans la taverne (l'est long le service!): Tension 2
+>* Le joueur s'énerve, plusieurs tables ont été servies avant lui... : Tension 3
+>* Le joueur fulminant découvre en tendant l'oreille qu'il n'est pas vraiment le bienvenu ici, car étant un sale nabot de nain il empeste dans cet établissement de prestige... : Tension 4
+>* Le joueur déclenche une rixe : Tension 5
 
 L'idée des jauges est de restreindre le temps d'action des joueurs. 
 
